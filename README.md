@@ -7,6 +7,7 @@ This project is a Java Swing application that generates crossword-style word gri
 - Armaan Saini
 - Rafan Quader
 - Kabir Khan
+- Atharva Ahir
 - Anthony Phanh
 - Ethan Le
 
