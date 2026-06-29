@@ -14,3 +14,7 @@ This project is a Java Swing application that generates crossword-style word gri
 ## Project Context
 
 This project was made in 2025 as a group project for AP Computer Science A.
+
+## Future of Project
+
+This project has been rewritten to run on the web and there are no plans to maintain the Java application. See https://github.com/rquader/WebCrosswordGenerator.
